@@ -164,7 +164,7 @@ initial_activities = {
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     },
-    "Manga Maniacs": {
+    "Mangas Maniacs": {
         "description": "Explore the fantastic stories of the most interesting characters from Japanese Mangas (graphic novels).",
         "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
         "schedule_details": {
